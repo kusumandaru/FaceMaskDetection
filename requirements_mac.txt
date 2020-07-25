@@ -48,20 +48,11 @@ scipy==1.4.1
 six==1.15.0
 sqlparse==0.3.1
 tensorboard==2.1.1
-tensorflow==2.1.0
-tensorflow-estimator==2.1.0
+tensorflow @ https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-2.1.0-cp37-cp37m-macosx_10_9_x86_64.whl
 termcolor==1.1.0
-tflite-runtime==2.1.0.post1
+tflite-runtime @ https://dl.google.com/coral/python/tflite_runtime-2.1.0.post1-cp37-cp37m-macosx_10_14_x86_64.whl
 urllib3==1.25.9
 virtualenv==20.0.28
 Werkzeug==1.0.1
 wrapt==1.12.1
 zipp==3.1.0
-
-
-# on raspberry
-# tensorflow @ https://github.com/lhelontra/tensorflow-on-arm/releases/download/v2.1.0/tensorflow-2.1.0-cp37-none-linux_armv7l.whl
-# tflite-runtime @ https://dl.google.com/coral/python/tflite_runtime-2.1.0.post1-cp37-cp37m-linux_armv7l.whl
-# for mac
-tensorflow @ https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-2.1.0-cp37-cp37m-macosx_10_9_x86_64.whl
-tflite-runtime @ https://dl.google.com/coral/python/tflite_runtime-2.1.0.post1-cp37-cp37m-macosx_10_14_x86_64.whl
