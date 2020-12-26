@@ -25,7 +25,7 @@ It from https://github.com/AIZOOTech/FaceMaskDetection
 
 - activate virtual environemnt -> `source facemask/bin/activate`
 
-- copy env -> `cp .env.staging .env`
+- copy env -> `cp .env.example .env`
 
 - update env value with slack channel and slack token
 
