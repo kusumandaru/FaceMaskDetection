@@ -52,7 +52,7 @@ tensorflow @ https://github.com/lhelontra/tensorflow-on-arm/releases/download/v2
 tensorflow-estimator==2.1.0
 termcolor==1.1.0
 tflite-runtime @ https://dl.google.com/coral/python/tflite_runtime-2.1.0.post1-cp37-cp37m-linux_armv7l.whl
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.28
 Werkzeug==1.0.1
 wrapt==1.12.1
